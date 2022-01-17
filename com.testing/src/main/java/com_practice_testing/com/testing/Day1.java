@@ -8,6 +8,8 @@ public class Day1 {
 		//Addargument passing value tomethod 
 		mymethod("devna", 21);
 		mymethod("srita", 23);
+		System.out.println("hello");
+		
 		
 
 
