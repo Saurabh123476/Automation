@@ -14,7 +14,7 @@ public class Day1 {
 
 
 		
-		
+		System.out.println("jao");
 		
 	}
 
